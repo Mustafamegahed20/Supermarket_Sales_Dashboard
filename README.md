@@ -71,4 +71,5 @@ Total Quantity = SUM(supermarket_sales[Quantity])
 
 ## You Can Check Dashboard at novypro : 
 You can give a look to dashboard and can have other insights from it.
+
 https://www.novypro.com/project/super-market-sales-
