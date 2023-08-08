@@ -45,7 +45,7 @@ Data Link : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
 3.Create some measures by DAX
 
-7.built interactive dashboard
+4.built interactive dashboard
 
 ## Measures Using Dax 
 1.Total Sales
