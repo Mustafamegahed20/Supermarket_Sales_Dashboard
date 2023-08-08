@@ -56,7 +56,7 @@ Total Sales= SUM('supermarket_sales'[Total])
 ```sql
 Total Orders = COUNT(supermarket_sales[Invoice ID])
 ```
-3. Total COGS
+3.Total COGS
 ```sql
 Total COGS = SUM(supermarket_sales[cogs]) 
 ```
